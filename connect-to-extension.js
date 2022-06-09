@@ -6,7 +6,7 @@ app.use(bodyParser.json());
 const onInboundCall = (request, response) => {
     const ncco = [{
     action: 'connect',
-      from: 18576540469, // Replace with CLI you'd want to display on VBC
+      from: 18571235555, // Replace with CLI you'd want to display on VBC
   
       endpoint: [{
         type: 'vbc',
