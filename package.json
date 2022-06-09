@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  },
+  "name": "6.connect-to-extension050922",
+  "version": "1.0.0",
+  "main": "connect-to-extension.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon connect-to-extension.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

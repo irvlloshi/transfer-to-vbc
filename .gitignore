@@ -1,0 +1,9 @@
+#Ignore .env
+.env
+
+#Ignore node_modules
+node_modules
+
+
+#Ignore private_key
+private.key
